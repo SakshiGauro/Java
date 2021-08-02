@@ -8,6 +8,6 @@ public static void main(String[] args) {
 }
 ```
 - method called main
-- When a program runs, it looks for the method `main`. It runs the statements within `main` in the order that you see.
+
 
 `Methods` - block of codes
