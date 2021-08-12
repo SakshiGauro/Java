@@ -1,6 +1,6 @@
 # Integer variables
 ```java 
-int cat;
+  int cat;
 ```
 
 - `int` 
@@ -10,7 +10,7 @@ int cat;
 - `cat` is the variable name. The name of the empty bucket. 
 
 ```java
-cat = 7;
+    cat = 7;
 ```
 - assigned the value `7` to the variable `cat`. Filling the bucket with the value `7`.
  
