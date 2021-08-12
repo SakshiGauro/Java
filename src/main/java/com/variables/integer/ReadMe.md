@@ -13,7 +13,7 @@ int cat;
 cat = 7;
 ```
 - assigned the value `7` to the variable `cat`. Filling the bucket with the value `7`.
-
+ 
 ```java
 System.out.println(cat);
 ```
