@@ -13,5 +13,5 @@ int total = cats + dogs;
 ```java
 System.out.println(total);
 ```
-- 
+- prints the value of total on the console.
 
